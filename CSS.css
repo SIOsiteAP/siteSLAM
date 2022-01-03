@@ -2,7 +2,7 @@
 /* ----------------------------------------------------------------------------------------------------------------------------------- */
 
 body {
-	background-image:url(noir.jpg); /* Défini une image de fond */
+	background-image:url(fond_site.jpg); /* Défini une image de fond */
 	background-repeat:no-repeat; /* Ne se répète pas (évite d'en avoir 50 sur la page car l'image est trop petite par exemple) */
 	background-size:cover; /* Défini l'image sur la page entière */
 	border:auto; /* L'image s'adapte à la taille de l'écran */
